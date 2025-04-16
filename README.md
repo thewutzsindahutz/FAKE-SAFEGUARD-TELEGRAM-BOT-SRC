@@ -13,7 +13,7 @@ LOGS_ID=your_logs_channel_id
 DOMAIN=https://your-app.vercel.app/
 ```
 
-### 4. Run the Bot
+## Run the Bot
 To run the bot locally for testing:
 ```
 npm install
